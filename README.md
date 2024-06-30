@@ -15,8 +15,6 @@ This is a simple console-based Tic Tac Toe game implemented in Python. The game 
 3. The first to get three in a row horizontally, vertically, or diagonally wins.
 4. If all positions are filled and no one has won, the game ends in a draw.
 
-## Getting Started
-
 ### Prerequisites
 - Python 3.x
 
